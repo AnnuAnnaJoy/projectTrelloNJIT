@@ -1,0 +1,25 @@
+nav{
+    background-color: #076388;top: 61px;
+    width: 250px;
+    height: 91vh;
+    overflow: hidden;
+   position:fixed;
+}
+
+
+nav ul{
+    list-style: none;
+}
+
+nav li{
+    line-height: 60px;
+    color: white;
+
+}
+
+.menu-text{
+   
+    text-decoration: none;
+    margin-left: 0px;
+}
+

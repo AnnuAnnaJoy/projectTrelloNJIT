@@ -1,0 +1,14 @@
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #58595b;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  h1{
+    margin-left: 600px;
+    color: rgb(254, 255, 255);
+  }
+
